@@ -1,0 +1,49 @@
+.top-container{
+ 
+ position: relative;
+ padding-top: 100px;
+}
+h1{
+    font-size:xx-large;
+    color: aliceblue;
+}
+h1:hover{
+    background-color: hsl(240, 100%, 50%);
+}
+body {
+    
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+  }
+#photo{
+    
+    border-radius: 100%;
+}
+.para{
+    font-size: 1.25rem;
+    align-self: center;
+    align-content: center;
+}
+h2:hover{
+background-color: hsl(240, 100%, 50%);
+}
+#size{
+    font-size: 2rem;
+}
+li{
+    font-size:20px;
+}
+/* Center the navbar items */
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  /* Center the navbar brand and toggle button */
+  .container-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
